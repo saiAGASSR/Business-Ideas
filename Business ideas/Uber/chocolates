@@ -1,0 +1,111 @@
+provide them chocolates daily from yash who is bringing from google  to the known candidates .
+
+wish then for a for a good day 
+
+
+
+
+# Start of conversation
+
+# User asks for a message to wish employees
+user_request = "provide them chocolates daily from yash who is bringing from google to the known candidates. wish them for a good day"
+
+# ChatGPT responds with a casual message
+response_1 = """
+Hey [Name], just a heads up—Yash is bringing chocolates from Google for you today! Enjoy the treat. 😊
+
+Wishing you a great day ahead!
+"""
+
+# User asks for different ways to wish someone a great day
+user_request_2 = "Wishing you a great day ahead! other ways? more ways"
+
+# ChatGPT provides more ways to wish someone a great day
+response_2 = [
+    "Hope you have an awesome day ahead!",
+    "Wishing you a day full of good vibes and success!",
+    "Hope your day is as amazing as you are!",
+    "Have an excellent day!",
+    "Here’s to a productive and positive day ahead!",
+    "Wishing you all the best for today!",
+    "Have a fantastic day and take care!",
+    "May your day be as sweet as the chocolate Yash is bringing! 😊",
+    "Hope your day is filled with lots of smiles and good moments!",
+    "Enjoy the day and make the most of it!"
+]
+
+# User asks for ways to wish corporate employees
+user_request_3 = "to corporate employees"
+
+# ChatGPT provides more formal ways to wish corporate employees
+response_3 = [
+    "Wishing you a productive and successful day ahead!",
+    "I hope your day is both fulfilling and rewarding.",
+    "May your day be filled with great achievements and positive energy.",
+    "Wishing you a smooth and productive day!",
+    "Hope you have a focused and successful day ahead!",
+    "Here’s to a productive day with great results!",
+    "I hope today brings you success and fulfillment in all that you do.",
+    "Wishing you a day full of progress and positive outcomes.",
+    "May your day be both productive and pleasant.",
+    "I trust today will bring you one step closer to your goals!"
+]
+
+# User asks for the conversation in code
+user_request_4 = "give our convo in code"
+
+# ChatGPT responds with code representation of the conversation
+response_4 = """
+# Start of conversation
+
+# User asks for a message to wish employees
+user_request = "provide them chocolates daily from yash who is bringing from google to the known candidates. wish them for a good day"
+
+# ChatGPT responds with a casual message
+response_1 = '''
+Hey [Name], just a heads up—Yash is bringing chocolates from Google for you today! Enjoy the treat. 😊
+
+Wishing you a great day ahead!
+'''
+
+# User asks for different ways to wish someone a great day
+user_request_2 = "Wishing you a great day ahead! other ways? more ways"
+
+# ChatGPT provides more ways to wish someone a great day
+response_2 = [
+    "Hope you have an awesome day ahead!",
+    "Wishing you a day full of good vibes and success!",
+    "Hope your day is as amazing as you are!",
+    "Have an excellent day!",
+    "Here’s to a productive and positive day ahead!",
+    "Wishing you all the best for today!",
+    "Have a fantastic day and take care!",
+    "May your day be as sweet as the chocolate Yash is bringing! 😊",
+    "Hope your day is filled with lots of smiles and good moments!",
+    "Enjoy the day and make the most of it!"
+]
+
+# User asks for ways to wish corporate employees
+user_request_3 = "to corporate employees"
+
+# ChatGPT provides more formal ways to wish corporate employees
+response_3 = [
+    "Wishing you a productive and successful day ahead!",
+    "I hope your day is both fulfilling and rewarding.",
+    "May your day be filled with great achievements and positive energy.",
+    "Wishing you a smooth and productive day!",
+    "Hope you have a focused and successful day ahead!",
+    "Here’s to a productive day with great results!",
+    "I hope today brings you success and fulfillment in all that you do.",
+    "Wishing you a day full of progress and positive outcomes.",
+    "May your day be both productive and pleasant.",
+    "I trust today will bring you one step closer to your goals!"
+]
+
+# User asks for the conversation in code
+user_request_4 = "give our convo in code"
+
+# ChatGPT responds with code representation of the conversation
+response_4 = "..."
+"""
+# End of conversation
