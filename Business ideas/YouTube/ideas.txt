@@ -155,3 +155,16 @@ start with react
 Start a thing Like with ChatGpt WHAT YOU WANT TO CREATE . 
 A video . 
 Start with Uber guy fell in love with a girl . 
+
+
+React helps you to  create thumbnails for videos   , video components , 
+make them automated and embed into video .
+
+
+
+2025 
+
+
+!1 Venkat Video on april 07 
+
+----------------
