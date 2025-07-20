@@ -170,9 +170,7 @@ make them automated and embed into video .
 ----------------
 
 
-<<<<<<< HEAD:Business ideas/YouTube/ideas
 SSMB 29 movie with AI 
-=======
 
 Money ========
 tell people How to earn money thats wil get more views. 
@@ -180,4 +178,3 @@ compare my 1 year journey with ola Uber rapido .
 
 Interactive. 
 Telel you  r journey with primark suguna residency 
->>>>>>> dc67b0b8e6b20e5a4cc6eafbac82b13e6a84ec3b:Business ideas/YouTube/ideas.txt
